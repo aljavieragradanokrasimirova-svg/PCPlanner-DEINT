@@ -75,7 +75,7 @@ Se han seguido el patrón de estado/eventos/acciones de las clases del 27 y 29 d
 - [Previews](https://developer.android.com/develop/ui/compose/tooling/previews)
 - [Lint](https://developer.android.com/studio/write/lint)
 
-Este README está preparado para incorporarse al repositorio de GitHub de la entrega.
+Repositorio privado de la entrega: [PCPlanner-DEINT](https://github.com/aljavieragradanokrasimirova-svg/PCPlanner-DEINT). Para que la profesora pueda consultarlo, será necesario darle acceso al repositorio.
 
 ## Comprobaciones
 
