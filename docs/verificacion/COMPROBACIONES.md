@@ -15,4 +15,4 @@ Realizadas el 8 de noviembre de 2026.
 
 El diseño se inspeccionó mediante capturas y el árbol de accesibilidad del emulador. También se utilizó Layout Inspector y se revisaron los árboles Compose y los atributos de contenedores de las tres pantallas. Véase LAYOUT_INSPECTOR.md. Las previews claro/oscuro están declaradas en el código. La revisión visual de ejecución registrada corresponde al modo claro del Pixel.
 
-Entrega preparada para el repositorio privado https://github.com/aljavieragradanokrasimirova-svg/PCPlanner-DEINT. Incluye código, README, capturas e informes; se excluyen cachés, compilaciones y local.properties.
+Entrega publicada en el repositorio público https://github.com/aljavieragradanokrasimirova-svg/PCPlanner-DEINT. Incluye código, README, capturas e informes; se excluyen cachés, compilaciones y local.properties.
