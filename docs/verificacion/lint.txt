@@ -1,0 +1,35 @@
+C:\Users\Javi\.codex\.chatgpt-projects\g-p-6aba3b217ba08191beaa40169bc37626\output\PRO02_Javier_Agradano_Krasimirova\gradle\libs.versions.toml:2: Warning: A newer version of com.android.application than 9.4.1 is available: 9.5.1 [AndroidGradlePluginVersion]
+agp = "9.4.1"
+      ~~~~~~~
+
+   Explanation for issues of type "AndroidGradlePluginVersion":
+   This detector looks for usage of the Android Gradle Plugin where the
+   version you are using is not the current stable release. Using older
+   versions is fine, and there are cases where you deliberately want to stick
+   with an older version. However, you may simply not be aware that a more
+   recent version is available, and that is what this lint check helps find.
+
+C:\Users\Javi\.codex\.chatgpt-projects\g-p-6aba3b217ba08191beaa40169bc37626\output\PRO02_Javier_Agradano_Krasimirova\gradle\libs.versions.toml:10: Warning: A newer version of androidx.compose:compose-bom than 2026.04.01 is available: 2026.09.00 [GradleDependency]
+composeBom = "2026.04.01"
+             ~~~~~~~~~~~~
+
+   Explanation for issues of type "GradleDependency":
+   This detector looks for usages of libraries where the version you are using
+   is not the current stable release. Using older versions is fine, and there
+   are cases where you deliberately want to stick with an older version.
+   However, you may simply not be aware that a more recent version is
+   available, and that is what this lint check helps find.
+
+C:\Users\Javi\.codex\.chatgpt-projects\g-p-6aba3b217ba08191beaa40169bc37626\output\PRO02_Javier_Agradano_Krasimirova\gradle\libs.versions.toml:9: Warning: A newer version of org.jetbrains.kotlin.plugin.compose than 2.2.10 is available: 2.4.21 [NewerVersionAvailable]
+kotlin = "2.2.10"
+         ~~~~~~~~
+
+   Explanation for issues of type "NewerVersionAvailable":
+   This detector checks with a central repository to see if there are newer
+   versions available for the dependencies used by this project. This is
+   similar to the GradleDependency check, which checks for newer versions
+   available in the Android SDK tools and libraries, but this works with any
+   MavenCentral dependency, and connects to the library every time, which
+   makes it more flexible but also much slower.
+
+0 errors, 3 warnings
